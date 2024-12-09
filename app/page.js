@@ -33,8 +33,7 @@ export default async function Home() {
             <div className="flex gap-4">
               <Button className="bg-[#FFB800] hover:bg-[#FFB800]/90 text-black">
                 <a
-                  href="/resume.pdf"
-                  download="Suparit_Pantasanyakul.pdf"
+                  href="/Suparit_Pantasanyakul.pdf"
                   className="w-full h-full"
                 >
                   Download CV
