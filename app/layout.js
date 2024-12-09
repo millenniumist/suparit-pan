@@ -8,8 +8,8 @@ const openSans = Open_Sans({
 });
 
 export const metadata = {
-  title: "Your Name - Professional Biography",
-  description: "Professional portfolio and biography of Your Name",
+  title: "Suparit Pantasayakul",
+  description: "Professional portfolio and biography of Suparit Pantasayakul",
 };
 
 export default function RootLayout({ children }) {
